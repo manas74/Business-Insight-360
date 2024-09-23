@@ -1,3 +1,4 @@
+![Atliq Hardware](https://github.com/manas74/Business-Insight-360/blob/main/Atliq_Hardware_project_img.jpg)
 # Atliq Hardware - Business Performance Analysis
 
 ## Problem Statement:
