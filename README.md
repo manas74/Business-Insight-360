@@ -5,6 +5,10 @@
 
 Atliq Hardware, a company involved in the sales of various technology products, seeks to improve business decision-making by analyzing key financial, operational, and sales metrics through the use of Power BI dashboards. The goal is to enhance visibility into key performance indicators such as **gross sales, net sales, gross margins, forecast accuracy, and customer performance** across different regions and product segments. The company faces challenges in several areas, including rising operational expenses and decreasing profitability, despite maintaining strong gross margins.
 
+## Dashboard Link:
+[View the Dashboard](https://app.powerbi.com/groups/me/reports/98d5645d-be20-41cb-9195-acfd3a70ff24/ReportSection0e765c0061580b067c73?experience=power-bi)
+
+
 ## Analysis Performed:
 
 The analysis, as presented in the report, focuses on the company's **Profit and Loss (P&L)** metrics, customer performance, and product segment performance. Key observations include:
